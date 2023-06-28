@@ -5,4 +5,4 @@ Nama saya Yoga, saya seorang programmer javascript
 - 👦Pronoun: He
 - 🌱Bahasa: HTML, CSS, Javascript, Typescript
 - 📢Teknologi: MariaDB, Git
-- 📝Kode editor: VSCod
+- 📝Kode editor: VSCode
